@@ -1,0 +1,12 @@
+
+
+<resources>
+    <string name="app_name">Petpooja Store</string>
+    <string name="title">Title</string>
+    <string name="image_description">image_description</string>
+    <string name="postfix_price"> MRP: %s ₹</string>
+    <string name="search">Search</string>
+    <string name="checkout">CheckOut</string>
+    <string name="items">Items</string>
+    <string name="price">Price</string>
+</resources>
