@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidWorkSpace/demo/meru-demo/app/src/main/res/drawable/checkbox_state.xml" value="0.35384615384615387" />
+        <entry key="..\:/AndroidWorkSpace/demo/meru-demo/app/src/main/res/drawable/ic_baseline_save_24.xml" value="0.35384615384615387" />
+        <entry key="..\:/AndroidWorkSpace/demo/meru-demo/app/src/main/res/drawable/ic_baseline_save_alt_24.xml" value="0.35384615384615387" />
+        <entry key="..\:/AndroidWorkSpace/demo/meru-demo/app/src/main/res/drawable/save_state.xml" value="0.35384615384615387" />
+        <entry key="..\:/AndroidWorkSpace/demo/meru-demo/app/src/main/res/layout/fragment_splash.xml" value="0.3111413043478261" />
+        <entry key="..\:/AndroidWorkSpace/demo/meru-demo/app/src/main/res/layout/recipe_item.xml" value="0.3111413043478261" />
+        <entry key="..\:/AndroidWorkSpace/demo/meru-demo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3302083333333333" />
+        <entry key="..\:/AndroidWorkSpace/demo/meru-demo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/LENOVO-PC/Desktop/app-demo/app/src/main/res/layout/fragment_cart.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO-PC/Desktop/app-demo/app/src/main/res/layout/fragment_product.xml" value="0.25" />
+        <entry key="..\:/app-petpooja-demo/app-petpooja/app/src/main/res/drawable/black_gredienat.xml" value="0.20153846153846153" />
+        <entry key="..\:/app-petpooja-demo/app-petpooja/app/src/main/res/drawable/checkbox_state.xml" value="0.13802083333333334" />
+        <entry key="..\:/app-petpooja-demo/app-petpooja/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.13802083333333334" />
+        <entry key="..\:/app-petpooja-demo/app-petpooja/app/src/main/res/drawable/ic_baseline_save_alt_24.xml" value="0.13802083333333334" />
+        <entry key="..\:/app-petpooja-demo/app-petpooja/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13802083333333334" />
+        <entry key="..\:/app-petpooja-demo/app-petpooja/app/src/main/res/layout-v21/fragment_product.xml" value="0.1828125" />
+        <entry key="..\:/app-petpooja-demo/app-petpooja/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/app-petpooja-demo/app-petpooja/app/src/main/res/layout/fragment_cart.xml" value="0.18854166666666666" />
+        <entry key="..\:/app-petpooja-demo/app-petpooja/app/src/main/res/layout/fragment_detail.xml" value="0.2" />
+        <entry key="..\:/app-petpooja-demo/app-petpooja/app/src/main/res/layout/fragment_product.xml" value="0.14" />
+        <entry key="..\:/app-petpooja-demo/app-petpooja/app/src/main/res/layout/fragment_splash.xml" value="0.1" />
+        <entry key="..\:/app-petpooja-demo/app-petpooja/app/src/main/res/layout/product_item.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
